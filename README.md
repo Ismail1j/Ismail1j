@@ -1,2 +1,2 @@
 # Profesional waffler 
-i like coding inn mainly html css sometimes nodejs pyhton too
+i like coding, mainly html css. sometimes nodejs or pyhton
